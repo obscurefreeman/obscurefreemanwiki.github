@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "晦涩弗里曼"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "来点**柠檬水**！！！"
+  avatar           : "/assets/images/of.jpg"
+  bio              : "来点**柠檬水**"
   location         : "黑山基地...也许吧"
   email            :
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/obscurefreeman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:"https://github.com/obscurefreeman"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
